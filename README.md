@@ -5,6 +5,7 @@
 * ChipMunk (chipmunk holding chips)
 * SportsBet.pizza
 * SportsPlay.pizza
+* Team Player
 
 
 # Logo Ideas:
@@ -12,3 +13,4 @@
 * Viking Pirate
 * Coins with sport icon
 * Currency sign with ball in center
+* Betting chip with sports
