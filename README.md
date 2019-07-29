@@ -2,6 +2,7 @@
 * SportSlot
 * SportsLot
 * SportsPlay
+* ChipMunk (chipmunk holding chips)
 
 
 # Logo Ideas:
