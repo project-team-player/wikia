@@ -8,7 +8,7 @@
 * Team Player
 * SportsPlay.club ($20/year)
 * Apples.pizza
-- [x]**SliceIt.pizza**
+- [x] **SliceIt.pizza**
 
 
 # Logo Ideas:
