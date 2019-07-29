@@ -3,6 +3,8 @@
 * SportsLot
 * SportsPlay
 * ChipMunk (chipmunk holding chips)
+* SportsBet.pizza
+* SportsPlay.pizza
 
 
 # Logo Ideas:
