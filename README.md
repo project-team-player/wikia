@@ -6,6 +6,8 @@
 * SportsBet.pizza
 * SportsPlay.pizza
 * Team Player
+* SportsPlay.club ($20/year)
+* Apples.pizza
 
 
 # Logo Ideas:
