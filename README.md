@@ -38,3 +38,6 @@
 | 3              | 1.4        |
 | 2              | 1.2        |
 | 1              | 1.0        |
+# Wikia for Team Player
+# Directions: Go to Wiki Tab to view Pages
+# Organized by Sprints
