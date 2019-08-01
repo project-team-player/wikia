@@ -88,3 +88,7 @@
 - [ ] Members (Array(Object)) (User Reference)
 - [ ] IsActive (Boolean)
 - [ ] Ranking (Array(Object)) (User Reference) (Ordered Descending)
+
+## Formula
+slicesBetted 
+: Amout of slices betted on a game
