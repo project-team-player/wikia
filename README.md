@@ -103,24 +103,38 @@
 ## API Endpoints
 --------------------------------------------------------------------------------
 **GET**
-- `GET /users -> Gets all users`
-- `GET /users/:id -> Get user based off id`
-- `GET /users/:id/bets -> Gets all bets made by user based off ID`
-- `GET /gamethreads -> Gets all game threads`
-- `GET /gamethreads/:id -> Get game thread based off id`
-- `GET /gamethreads/:id/bets -> Get all bets made on a game thread based off ID`
-- `GET /bets -> Gets all bets (caution)`
-- `GET /bets/:id -> Get bet based off id`
-- `GET /teams -> Gets all teams`
-- `GET /teams/:id -> Get team based off id`
-- `GET /leagues -> Gets all leagues`
-- `GET /leagues/:id -> Get leagues based off id`
+- `GET /users -> Reads all users`
+- `GET /users/:id -> Read user based off id`
+- `GET /users/:id/bets -> Reads all bets made by user based off ID`
+- `GET /gamethreads -> Reads all game threads`
+- `GET /gamethreads/:id -> Read game thread based off id`
+- `GET /gamethreads/:id/bets -> Read all bets made on a game thread based off ID`
+- `GET /bets -> Reads all bets (caution)`
+- `GET /bets/:id -> Read bet based off id`
+- `GET /teams -> Reads all teams`
+- `GET /teams/:id -> Read team based off id`
+- `GET /leagues -> Reads all leagues`
+- `GET /leagues/:id -> Read leagues based off id`
 -------------------------------------------------------------------------------
 **POST**
-- `POST /user -> Creates a user. Requires a req.body`
-- `POST /gamethread -> Creates a gamethread. Requires a req.body`
-- `POST /bet -> Creates a bet. Requires a req.body`
-- `POST /team -> Creates a team. Requires a req.body`
-- `POST /league -> Create a league`
+- `POST /users -> Creates a user. Requires a req.body`
+- `POST /gamethreads -> Creates a gamethread. Requires a req.body`
+- `POST /bets -> Creates a bet. Requires a req.body`
+- `POST /teams -> Creates a team. Requires a req.body`
+- `POST /leagues -> Create a league`
 -------------------------------------------------------------------------------- 
+**PATCH**
+- `PATCH /users/:id -> Updates a user based off id`
+- `PATCH /gamethreads/:id -> Updates a gamethread based off id`
+- `PATCH /bets/:id -> Updates a bet based off id`
+- `PATCH /teams/:id -> Updates a team based off id`
+- `PATCH /leagues/:id -> Updates a league based off id`
+--------------------------------------------------------------------------------
+**DELETE**
+- `DELETE /users/:id -> Deletes a user based off id`
+- `DELETE /gamethreads/:id -> Deletes a gamethread based off id`
+- `DELETE /bets/:id -> Deletes a bet based off id`
+- `DELETE /teams/:id -> Deletes a team based off id`
+- `DELETE /leagues/:id -> Deletes a league based off id`
+--------------------------------------------------------------------------------
 
