@@ -90,8 +90,8 @@
 - [ ] Ranking (Array(Object)) (User Reference) (Ordered Descending)
 
 ## Formula
-`slicesBetted : Amout of slices betted on a game`
-`slicesWon : Total amount of slices won all together from all games won`
-`multiplier: Amount from the multiplier table`
-`totalSlices : Total slices won after multiplier has been applied`
+- `slicesBetted : Amout of slices betted on a game`
+- `slicesWon : Total amount of slices won all together from all games won`
+- `multiplier: Amount from the multiplier table`
+- `totalSlices : Total slices won after multiplier has been applied`
 
