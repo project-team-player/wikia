@@ -90,8 +90,13 @@
 - [ ] Ranking (Array(Object)) (User Reference) (Ordered Descending)
 
 ## Formula
+- `correctBets : Number of bets guessed correctly by user`
 - `slicesBetted : Amout of slices betted on a game`
 - `slicesWon : Total amount of slices won all together from all games won`
 - `multiplier: Amount from the multiplier table`
 - `totalSlices : Total slices won after multiplier has been applied`
+> slicesWon = 2(slicesBetted) SIGMA correctBets
+----------------------------------------------------
+> totalSlices = slicesWon x multiplier
+----------------------------------------------------
 
