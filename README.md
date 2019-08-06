@@ -58,6 +58,7 @@
 - [ ] Leagues (Array(Object)) (League Reference)
 - [ ] Bets (Array(Object)) (Bet Reference)
 - [ ] GlobalRank (INT)
+- [ ] Permissions (INT)
 
 ## Game Thread
 - [ ] ID (object ID)
