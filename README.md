@@ -90,6 +90,11 @@
 - [ ] IsActive (Boolean)
 - [ ] Ranking (Array(Object)) (User Reference) (Ordered Descending)
 
+## Comment
+- [ ] ID (object ID)
+- [ ] Owner (Object) (User Reference)
+- [ ] Comments (Array) (Comment Reference)
+
 ## Formula
 - `correctBets : Number of bets guessed correctly by user`
 - `slicesBetted : Amout of slices betted on a game`
