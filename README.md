@@ -68,6 +68,7 @@
 - [ ] Bets (Array(Object)) (Bet Reference)
 - [ ] Winner (Object)
 - [ ] IsFinished (Boolean) 
+- [ ] Comments (Array(Object)) (Comment Reference)
 
 ## Bet
 - [ ] ID (object ID)
