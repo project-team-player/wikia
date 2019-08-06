@@ -59,6 +59,10 @@
 - [ ] Bets (Array(Object)) (Bet Reference)
 - [ ] GlobalRank (INT)
 - [ ] Permissions (INT)
+- [ ] Commends (INT)
+- [ ] Reports (INT)
+- [ ] Badge (STR)
+- [ ] Achievements (Array(STR))
 
 ## Game Thread
 - [ ] ID (object ID)
