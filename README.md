@@ -63,6 +63,7 @@
 - [ ] Reports (INT)
 - [ ] Badge (STR)
 - [ ] Achievements (Array(STR))
+- [ ] Comments (Array(Object)) (Comment Reference)
 
 ## Game Thread
 - [ ] ID (object ID)
@@ -133,6 +134,8 @@
 - `POST /bets -> Creates a bet. Requires a req.body`
 - `POST /teams -> Creates a team. Requires a req.body`
 - `POST /leagues -> Create a league`
+- `POST /signup -> signup`
+- `POST /login -> login`
 -------------------------------------------------------------------------------- 
 **PATCH**
 - `PATCH /users/:id -> Updates a user based off id`
