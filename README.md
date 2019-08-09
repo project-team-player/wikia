@@ -152,3 +152,9 @@
 - `DELETE /leagues/:id -> Deletes a league based off id`
 --------------------------------------------------------------------------------
 
+**RETRIEVAL OF DATA**
+- First NFL game of a week is on a thursday night.
+- Last NFL game of a week is on a monday night.
+- Majority of NFL games happen on a sunday.
+- Some NFL games happen around saturday, 
+- On a thanksgiving thursday, more NFL games occur.
