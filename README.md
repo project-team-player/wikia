@@ -152,9 +152,20 @@
 - `DELETE /leagues/:id -> Deletes a league based off id`
 --------------------------------------------------------------------------------
 
-**RETRIEVAL OF DATA**
+**GAMES**
 - First NFL game of a week is on a thursday night.
 - Last NFL game of a week is on a monday night.
 - Majority of NFL games happen on a sunday.
 - Some NFL games happen around saturday, 
 - On a thanksgiving thursday, more NFL games occur.
+--------------------------------------------------------------------------------
+**PULLING GAME THREAD DATA (IDEAL)**
+- After the last game of the week, midnight monday or very early tuesday.
+--------------------------------------------------------------------------------
+**PLACING BETS**
+- Opens whenever data is pulled 
+- Closes 1 hr before the kickoff of the 1st game
+--------------------------------------------------------------------------------
+**SLICES PER WEEK**
+- Must reset before the games open for betting
+--------------------------------------------------------------------------------
