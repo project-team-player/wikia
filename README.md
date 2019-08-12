@@ -100,6 +100,7 @@
 - [ ] ID (object ID)
 - [ ] Owner (Object) (User Reference)
 - [ ] Comments (Array) (Comment Reference)
+- [ ] SlicesToEnter (INT)
 
 ## Formula
 - `correctBets : Number of bets guessed correctly by user`
@@ -134,8 +135,8 @@
 - `POST /bets -> Creates a bet. Requires a req.body`
 - `POST /teams -> Creates a team. Requires a req.body`
 - `POST /leagues -> Create a league`
-- `POST /signup -> signup`
-- `POST /login -> login`
+- `POST /authenticate/signup -> signup`
+- `POST /authenticate/login -> login`
 -------------------------------------------------------------------------------- 
 **PATCH**
 - `PATCH /users/:id -> Updates a user based off id`
