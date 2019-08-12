@@ -172,6 +172,6 @@
 --------------------------------------------------------------------------------
 **3RD PARTY APIs**
 - [fandatsydata](https://fantasydata.com/api/api-documentation/nfl) **Not Free**
-- [hooks](https://www.hooksdata.io/docs/api/introduction/)
+- [hooks](https://www.hooksdata.io/docs/api/introduction/) **Site Not Secure**
 - [sportfeeds](https://www.mysportsfeeds.com/data-feeds/api-docs/)
 --------------------------------------------------------------------------------
