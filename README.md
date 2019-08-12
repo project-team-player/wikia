@@ -84,10 +84,27 @@
 
 ## Team
 - [ ] ID (object ID)
-- [ ] Name (STR)
+- [ ] FullName (STR)
+- [ ] Key (STR)
+- [ ] PlaceName (STR)
+- [ ] TeamName (STR)
+- [ ] Conference (STR)
+- [ ] Division (STR)
+- [ ] ByeWeek (INT)
+- [ ] HeadCoach (STR)
+- [ ] OffensiveCoordinator (STR)
+- [ ] DeffensiveCoordinator (STR)
+- [ ] SpecialTeamsCoach (STR)
 - [ ] Wins (INT)
 - [ ] Losses (INT)
 - [ ] Draws (INT)
+- [ ] WikiLogoURL (STR)
+- [ ] WikiWordMarkURL (STR)
+- [ ] PrimaryColor (STR) (hex)
+- [ ] SecondaryColor (STR) (hex)
+- [ ] TertiaryColor (STR) (hex)
+- [ ] StadiumDetails (Object)
+
 
 ## League
 - [ ] ID (object ID)
