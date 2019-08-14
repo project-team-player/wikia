@@ -67,20 +67,27 @@
 
 ## Game Thread
 - [ ] ID (object ID)
-- [ ] Week (INT)
-- [ ] HomeTeam (Object) (Team Reference)
-- [ ] AwayTeam (Object) (Team Reference)
 - [ ] Bets (Array(Object)) (Bet Reference)
 - [ ] Winner (Object)
 - [ ] IsFinished (Boolean) 
 - [ ] Comments (Array(Object)) (Comment Reference)
+- [ ] Game (Object) (Game Reference)
 
 ## Game 
 - [ ] ID (object ID)
 - [ ] Week (INT)
 - [ ] HomeTeam (Object) (Team Reference)
+        - LOGO
+        - COLORS
+        - NAME
+        - KEY
 - [ ] AwayTeam (Object) (Team Reference) 
+        - LOGO
+        - COLORS
+        - NAME
+        - KEY
 - [ ] Date (Date)
+- [ ] Winner (Object)
 - [ ] GameThread (Object) (Team Reference)
 
 ## Bet
