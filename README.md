@@ -75,6 +75,14 @@
 - [ ] IsFinished (Boolean) 
 - [ ] Comments (Array(Object)) (Comment Reference)
 
+## Game 
+- [ ] ID (object ID)
+- [ ] Week (INT)
+- [ ] HomeTeam (Object) (Team Reference)
+- [ ] AwayTeam (Object) (Team Reference) 
+- [ ] Date (Date)
+- [ ] GameThread (Object) (Team Reference)
+
 ## Bet
 - [ ] ID (object ID)
 - [ ] Owner (Object) (User Reference)
