@@ -4,7 +4,7 @@ This is a style guide that shows the current color palette, fonts, font sizes an
 
 ## Colors
 
-- Off-white/light grey: #F9F8F7, used as background for the main body of the site 
+- Off-white/light grey: #EBEBEB, used as background for the main body of the site 
 - Black: #232323
 - White: #F9F8F7
 - Red: #D0021B
