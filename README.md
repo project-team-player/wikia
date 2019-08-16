@@ -152,7 +152,7 @@
 - `GET /users/:id -> Read user based off id`
 - `GET /users/:id/bets -> Reads all bets made by user based off ID`
 - `GET /gamethreads -> Reads all game threads`
-- [x] `GET games/week/:week -> Read all the games for the games`
+- [x] `GET /games/week/:week -> Read all the games for the games`
 - [x] `GET /gamethreads/:id -> Read game thread based off id`
 - [x] `GET /gamethreads/week/:week -> Read all gamethreads for the week`
 - `GET /gamethreads/:id/bets -> Read all bets made on a game thread based off ID`
@@ -164,13 +164,12 @@
 - `GET /leagues/:id -> Read leagues based off id`
 -------------------------------------------------------------------------------
 **POST**
-- `POST /users -> Creates a user. Requires a req.body`
 - `POST /gamethreads -> Creates a gamethread. Requires a req.body`
 - `POST /bets -> Creates a bet. Requires a req.body`
 - `POST /teams -> Creates a team. Requires a req.body`
 - `POST /leagues -> Create a league`
-- `POST /authenticate/signup -> signup`
-- `POST /authenticate/login -> login`
+- [x] `POST /authenticate/signup -> signup`
+- [x] `POST /authenticate/login -> login`
 -------------------------------------------------------------------------------- 
 **PATCH**
 - `PATCH /users/:id -> Updates a user based off id`
