@@ -152,7 +152,9 @@
 - `GET /users/:id -> Read user based off id`
 - `GET /users/:id/bets -> Reads all bets made by user based off ID`
 - `GET /gamethreads -> Reads all game threads`
-- `GET /gamethreads/:id -> Read game thread based off id`
+- [x] `GET games/week/:week -> Read all the games for the games
+- [x] `GET /gamethreads/:id -> Read game thread based off id`
+- [x] `GET /gamethreads/week/:week -> Read all gamethreads for the week
 - `GET /gamethreads/:id/bets -> Read all bets made on a game thread based off ID`
 - `GET /bets -> Reads all bets (caution)`
 - `GET /bets/:id -> Read bet based off id`
