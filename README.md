@@ -152,6 +152,7 @@
 - `GET /users/:id -> Read user based off id`
 - `GET /users/:id/bets -> Reads all bets made by user based off ID`
 - `GET /gamethreads -> Reads all game threads`
+- [x] `GET /games/weekTotal/NFL -> Returns total weeks in an NFL regular season` 
 - [x] `GET /games/week/:week -> Read all the games for the games`
 - [x] `GET /gamethreads/:id -> Read game thread based off id`
 - [x] `GET /gamethreads/week/:week -> Read all gamethreads for the week`
@@ -165,7 +166,7 @@
 -------------------------------------------------------------------------------
 **POST**
 - `POST /gamethreads -> Creates a gamethread. Requires a req.body`
-- `POST /bets -> Creates a bet. Requires a req.body`
+- [x] `POST /bets/add/gamethread/:id -> Creates a bet. Requires a req.body`
 - `POST /teams -> Creates a team. Requires a req.body`
 - `POST /leagues -> Create a league`
 - [x] `POST /authenticate/signup -> signup`
