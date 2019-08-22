@@ -156,6 +156,7 @@
 - [x] `GET /games/week/:week -> Read all the games for the games`
 - [x] `GET /gamethreads/:id -> Read game thread based off id`
 - [x] `GET /gamethreads/week/:week -> Read all gamethreads for the week`
+- [x] `GET /comments/all/gamethread/:id -> get all comments on a gamethread`
 - `GET /gamethreads/:id/bets -> Read all bets made on a game thread based off ID`
 - `GET /bets -> Reads all bets (caution)`
 - `GET /bets/:id -> Read bet based off id`
@@ -167,7 +168,7 @@
 **POST**
 - `POST /gamethreads -> Creates a gamethread. Requires a req.body`
 - [x] `POST /bets/add/gamethread/:id -> Creates a bet. Requires a req.body`
-- `POST /teams -> Creates a team. Requires a req.body`
+- [x] `POST /comments/add/gamethread/id -> Creates a comment on a gamthread`
 - `POST /leagues -> Create a league`
 - [x] `POST /authenticate/signup -> signup`
 - [x] `POST /authenticate/login -> login`
