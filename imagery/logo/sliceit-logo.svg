@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="129px" height="34px" viewBox="0 0 129 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-desktop" transform="translate(-3.000000, -2.000000)">
+            <g id="Logo" transform="translate(2.000000, 0.000000)">
+                <g id="Pizza-slice" transform="translate(19.000000, 20.500000) rotate(-20.000000) translate(-19.000000, -20.500000) translate(5.000000, 4.000000)">
+                    <g>
+                        <path d="M13.06309,32.3825583 L0.0860900092,3.60427196 C-0.146323488,3.08877612 0.108026244,2.49305799 0.654229205,2.27368497 C0.667053685,2.26853424 0.679983108,2.26361941 0.693010139,2.25894328 C4.90948972,0.745412185 9.36362657,-0.00754988773 14.0554207,0 C18.7462054,0.00780489626 23.1661539,0.774962536 27.3152663,2.30152998 C27.8683533,2.50502013 28.1419213,3.0931316 27.9262994,3.61510929 C27.922627,3.62399952 27.9188218,3.6328404 27.9148851,3.6416293 L15.0421414,32.3803127 C14.8110011,32.8963386 14.1803732,33.1378226 13.6335945,32.9196825 C13.3768155,32.8172392 13.1722556,32.6246482 13.06309,32.3825583 Z" id="Triangle" fill="#F3A82E"></path>
+                        <ellipse id="Oval-Copy-5" fill="#D0021B" cx="7.41176471" cy="8.64285714" rx="4.11764706" ry="3.92857143"></ellipse>
+                        <ellipse id="Oval-Copy-6" fill="#D0021B" cx="18.9411765" cy="7.07142857" rx="4.11764706" ry="3.92857143"></ellipse>
+                        <ellipse id="Oval-Copy" fill="#D0021B" cx="14" cy="19.6428571" rx="4.11764706" ry="3.92857143"></ellipse>
+                    </g>
+                </g>
+                <text id="SLICE-IT" font-family="Raleway-Black, Raleway" font-size="20" font-weight="700" letter-spacing="1.81318615">
+                    <tspan x="38" y="27" fill="#FFFFFF">SLICE </tspan>
+                    <tspan x="109.519117" y="27" fill="#D0021B">IT</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
