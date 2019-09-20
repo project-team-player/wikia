@@ -157,7 +157,8 @@
 - [x] `GET /gamethreads/:id -> Read game thread based off id`
 - [x] `GET /gamethreads/week/:week -> Read all gamethreads for the week`
 - [x] `GET /comments/all/gamethread/:id -> get all comments on a gamethread`
-- [x] `GET /users/leaderboards/global -> returns users sorted on leaderboards`
+- [x] `GET /users/leaderboard/global -> returns users sorted on leaderboards`
+- [x] `GET /users/leaderboard/week/:week -> returns users sorted on leaderboards on weekly basis`
 - `GET /gamethreads/:id/bets -> Read all bets made on a game thread based off ID`
 - `GET /bets -> Reads all bets (caution)`
 - `GET /bets/:id -> Read bet based off id`
