@@ -168,7 +168,7 @@
 - `GET /leagues/:id -> Read leagues based off id`
 -------------------------------------------------------------------------------
 **POST**
-- `POST /gamethreads -> Creates a gamethread. Requires a req.body`
+- ~~`POST /gamethreads -> Creates a gamethread. Requires a req.body`~~ 
 - [x] `POST /bets/add/gamethread/:id -> Creates a bet. Requires a req.body`
 - [x] `POST /comments/add/gamethread/:id -> Creates a comment on a gamthread`
 - `POST /leagues -> Create a league`
