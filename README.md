@@ -208,10 +208,8 @@
 - Must reset before the games open for betting
 --------------------------------------------------------------------------------
 **3RD PARTY APIs**
-- [fandatsydata](https://fantasydata.com/api/api-documentation/nfl) **Not Free**
-- [hooks](https://www.hooksdata.io/docs/api/introduction/) **Site Not Secure**
 - [sportfeeds](https://www.mysportsfeeds.com/data-feeds/api-docs/) **Waiting on API Key**
 - [sportsdataio](https://sportsdata.io/developers/api-documentation/nfl) **Skrt Skrt**
 - [sportradar](https://developer.sportradar.com/docs/read/american_football/Classic_NFL_v1) **90 day trial 1000 calls/month**
-- rapidAPI (25 calls per day) -> Scores done. Some scores cannot be obtained. But oh well.
+- rapidAPI (25 calls per day) -> Scores done.
 --------------------------------------------------------------------------------
