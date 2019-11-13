@@ -166,6 +166,7 @@
 - `GET /teams/:id -> Read team based off id`
 - `GET /leagues -> Reads all leagues`
 - `GET /leagues/:id -> Read leagues based off id`
+- [x] `obtain team records`
 -------------------------------------------------------------------------------
 **POST**
 - [x] ~~`POST /gamethreads -> Creates a gamethread. Requires a req.body`~~ 
