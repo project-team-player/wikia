@@ -202,8 +202,8 @@
 - After the last game of the week, midnight monday or very early tuesday.
 --------------------------------------------------------------------------------
 **PLACING BETS**
-- Opens whenever data is pulled 
-- Closes 1 hr before the kickoff of the 1st game
+- Bet on any future game to your liking, doesn't have to be on current week at all.
+- Closes the day of the game
 --------------------------------------------------------------------------------
 **SLICES PER WEEK**
 - Must reset before the games open for betting
