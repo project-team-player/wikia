@@ -214,3 +214,4 @@
 - [sportradar](https://developer.sportradar.com/docs/read/american_football/Classic_NFL_v1) **90 day trial 1000 calls/month**
 - rapidAPI (25 calls per day) -> Scores done.
 --------------------------------------------------------------------------------
+**Project suspended as of now**
